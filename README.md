@@ -30,6 +30,7 @@ Each sample includes the following features:
 - Create meaningful visualizations.
 - Check for correlations and patterns.
 - Document key observations and insights.
+- Go on to become data analyst / Ai engineer.
 
 ---
 
